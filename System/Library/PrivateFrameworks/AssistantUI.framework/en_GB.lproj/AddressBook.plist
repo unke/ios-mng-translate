@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>AllSections</key>
+	<array>
+		<dict>
+			<key>ExamplePhrases</key>
+			<array>
+				<string>What’s Stuart’s address?</string>
+				<string>What is Harriet Devoy’s phone number?</string>
+				<string>Show Chris’s home email address</string>
+				<string>What’s my brother’s work address?</string>
+			</array>
+			<key>SectionName</key>
+			<string>Asking about contacts</string>
+		</dict>
+		<dict>
+			<key>ExamplePhrases</key>
+			<array>
+				<string>Find a contact</string>
+				<string>Show Andrew Carrigan</string>
+				<string>Find people named Park</string>
+				<string>Who is Stuart Devoy?</string>
+			</array>
+			<key>SectionName</key>
+			<string>Finding contacts</string>
+		</dict>
+		<dict>
+			<key>ExamplePhrases</key>
+			<array>
+				<string>My wife is Harriet Devoy</string>
+				<string>Stuart Devoy is my brother</string>
+				<string>Call my brother at work</string>
+			</array>
+			<key>SectionName</key>
+			<string>Relationships</string>
+		</dict>
+	</array>
+</dict>
+</plist>

@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>AllSections</key>
+	<array>
+		<dict>
+			<key>ExamplePhrases</key>
+			<array>
+				<string>Wake me up tomorrow at 7am</string>
+				<string>Set an alarm for 6:30am</string>
+				<string>Wake me up in 8 hours</string>
+				<string>Change my 6:30 alarm to 6:45</string>
+				<string>Turn off my 6:30 alarm</string>
+				<string>Delete my 7:30 alarm</string>
+			</array>
+			<key>SectionName</key>
+			<string>Alarm</string>
+		</dict>
+		<dict>
+			<key>ExamplePhrases</key>
+			<array>
+				<string>What time is it?</string>
+				<string>What time is it in Berlin?</string>
+				<string>What is today’s date?</string>
+				<string>What’s the date this Saturday?</string>
+			</array>
+			<key>SectionName</key>
+			<string>Clock</string>
+		</dict>
+		<dict>
+			<key>ExamplePhrases</key>
+			<array>
+				<string>Set the timer for ten minutes</string>
+				<string>Show the timer</string>
+				<string>Pause the timer</string>
+				<string>Resume</string>
+				<string>Reset the timer</string>
+				<string>Stop it</string>
+			</array>
+			<key>SectionName</key>
+			<string>Timer</string>
+		</dict>
+	</array>
+</dict>
+</plist>

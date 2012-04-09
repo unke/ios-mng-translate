@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>AllSections</key>
+	<array>
+		<dict>
+			<key>ExamplePhrases</key>
+			<array>
+				<string>Email Harriet about the trip</string>
+				<string>Email Chris about the change in plans</string>
+				<string>New email to Harriet Devoy</string>
+				<string>Mail Dad about the rent cheque</string>
+				<string>Email Dr. Devoy and say I got the forms, thanks</string>
+				<string>Mail Harriet and Andrew about the party and say I had a great time</string>
+			</array>
+			<key>SectionName</key>
+			<string>Sending email</string>
+		</dict>
+		<dict>
+			<key>ExamplePhrases</key>
+			<array>
+				<string>Check email</string>
+				<string>Any new email from Stuart today?</string>
+				<string>Show new mail about the lease</string>
+				<string>Show the email from Harriet yesterday</string>
+			</array>
+			<key>SectionName</key>
+			<string>Checking email</string>
+		</dict>
+		<dict>
+			<key>ExamplePhrases</key>
+			<array>
+				<string>Reply Dear Claire sorry about the late payment</string>
+				<string>Call him at work</string>
+			</array>
+			<key>SectionName</key>
+			<string>Responding to email</string>
+		</dict>
+	</array>
+</dict>
+</plist>

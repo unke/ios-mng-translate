@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>AllSections</key>
+	<array>
+		<dict>
+			<key>ExamplePhrases</key>
+			<array>
+				<string>Remind me to ring mum</string>
+				<string>Remind me to ring my mum when I get home</string>
+				<string>Remind me to take an umbrella</string>
+				<string>Remind me take my medicine at 6am tomorrow</string>
+				<string>Remind me to pick up flowers when I leave work</string>
+				<string>Remind me when I leave to call Andrew</string>
+				<string>Remind me to finish the report today</string>
+			</array>
+			<key>SectionName</key>
+			<string></string>
+		</dict>
+	</array>
+</dict>
+</plist>

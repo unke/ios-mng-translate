@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>AllSections</key>
+	<array>
+		<dict>
+			<key>ExamplePhrases</key>
+			<array>
+				<string>Where’s Andrew?</string>
+				<string>Where is my sister?</string>
+				<string>Is my wife at home?</string>
+				<string>Where are all my friends</string>
+				<string>Who is here?</string>
+				<string>Who is near me?</string>
+			</array>
+			<key>SectionName</key>
+			<string></string>
+		</dict>
+	</array>
+</dict>
+</plist>

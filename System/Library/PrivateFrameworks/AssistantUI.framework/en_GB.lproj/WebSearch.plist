@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>AllSections</key>
+	<array>
+		<dict>
+			<key>ExamplePhrases</key>
+			<array>
+				<string>Search the web for Bora Bora</string>
+				<string>Search for vegetarian pasta recipes</string>
+				<string>Search the web for best cable plans</string>
+				<string>Google the war of 1812</string>
+				<string>Search Wikipedia for Julia Gillard</string>
+				<string>Search for news about the World Cup</string>
+				<string>Bing Alicia Keys</string>
+			</array>
+			<key>SectionName</key>
+			<string></string>
+		</dict>
+	</array>
+</dict>
+</plist>

@@ -1,0 +1,40 @@
+/* 
+   Localizable.strings
+   AOSNotification
+   iOS Version
+
+   Created by Stu Slack.
+   Copyright 2011 Apple, Inc. All rights reserved.
+ */
+
+/* Goto Settings Button Title */
+"AuthMessageTitleKey" = "Cannot Access %@";
+
+/* Message Text */
+"AuthMessageTextKey" = "Review your account information in Settings.";
+
+/* Ignore Message Button */
+"AuthMessageIgnoreKey" = "OK";
+
+/* Settings Message Button */
+"AuthMessageGotoSettingsKey" = "Settings";
+
+/*
+ * iCloud Migration Dialog
+ * This dialog is presented by aosnotifyd when we detect (via a notification or other mechanism) that
+ * a classic account has been marked as needing migration and the user needs to do something 
+ * in iCloud Prefs
+ */
+
+/* Dialog Title  */
+"AOSN_MIGRATE_ACCOUNT_TITLE" = "Complete Your Move to iCloud";
+
+/* Message Text */
+"AOSN_MIGRATE_ACCOUNT_TEXT" = "Open Settings and complete your move from MobileMe to iCloud.";
+
+/* Settings Message Button */
+"AOSN_MIGRATE_SETTINGS_BUTTON" = "OK";
+
+/* Ignore Message Button */
+/* (Optional) - Will not be shown if empty string set here */
+"AOSN_MIGRATE_LATER_BUTTON" = "";

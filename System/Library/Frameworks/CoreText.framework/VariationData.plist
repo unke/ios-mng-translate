@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>axis-labels</key>
+	<dict>
+		<key>BD</key>
+		<string>Bold</string>
+		<key>BL</key>
+		<string>Black</string>
+		<key>CN</key>
+		<string>Condensed</string>
+		<key>EX</key>
+		<string>Extended</string>
+		<key>LT</key>
+		<string>Light</string>
+		<key>NO</key>
+		<string>Normal</string>
+		<key>OP</key>
+		<string>Optical Size</string>
+		<key>RG</key>
+		<string>Regular</string>
+		<key>SB</key>
+		<string>Semibold</string>
+		<key>SC</key>
+		<string>Semi Condensed</string>
+		<key>SE</key>
+		<string>Semi Extended</string>
+		<key>XB</key>
+		<string>Extra Black</string>
+		<key>XC</key>
+		<string>Extra Condensed</string>
+		<key>XE</key>
+		<string>Extra Extended</string>
+		<key>XL</key>
+		<string>Extra Light</string>
+	</dict>
+	<key>style-abbreviations</key>
+	<dict>
+		<key>Alternate</key>
+		<string>Alt</string>
+		<key>Black</key>
+		<string>Bk</string>
+		<key>Bold</key>
+		<string>Bd</string>
+		<key>Book</key>
+		<string>Bk</string>
+		<key>Compact</key>
+		<string>Ct</string>
+		<key>Compressed</key>
+		<string>Cm</string>
+		<key>Condensed</key>
+		<string>Cn</string>
+		<key>Demi</key>
+		<string>Dm</string>
+		<key>Demibold</key>
+		<string>Dm</string>
+		<key>Deutsche Fraktur</key>
+		<string>Dfr</string>
+		<key>Display</key>
+		<string>Di</string>
+		<key>Expert</key>
+		<string>Exp</string>
+		<key>Extended</key>
+		<string>Ex</string>
+		<key>Extra</key>
+		<string>X</string>
+		<key>Heavy</key>
+		<string>Hv</string>
+		<key>Inline</key>
+		<string>In</string>
+		<key>Light</key>
+		<string>Lt</string>
+		<key>Medium</key>
+		<string>Md</string>
+		<key>Multiple Master</key>
+		<string>MM</string>
+		<key>Narrow</key>
+		<string>Nr</string>
+		<key>Nord</key>
+		<string>Nd</string>
+		<key>Old Style</key>
+		<string>OS</string>
+		<key>Oldstyle Figures</key>
+		<string>OsF</string>
+		<key>Ornaments</key>
+		<string>Or</string>
+		<key>Outline</key>
+		<string>Ou</string>
+		<key>Poster</key>
+		<string>Po</string>
+		<key>Regular</key>
+		<string>Rg</string>
+		<key>Roman</key>
+		<string>Rmt</string>
+		<key>Rounded</key>
+		<string>Rd</string>
+		<key>Script</key>
+		<string>Scr</string>
+		<key>Semi</key>
+		<string>Sm</string>
+		<key>Semibold</key>
+		<string>Sm</string>
+		<key>Shaded</key>
+		<string>Sh</string>
+		<key>Small Caps</key>
+		<string>SC</string>
+		<key>Super</key>
+		<string>Su</string>
+		<key>Swash</key>
+		<string>Sw</string>
+		<key>Thin</key>
+		<string>Th</string>
+		<key>Titling</key>
+		<string>Ti</string>
+		<key>Typewrite</key>
+		<string>Typ</string>
+	</dict>
+</dict>
+</plist>

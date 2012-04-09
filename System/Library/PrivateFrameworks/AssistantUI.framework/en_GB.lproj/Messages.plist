@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>AllSections</key>
+	<array>
+		<dict>
+			<key>ExamplePhrases</key>
+			<array>
+				<string>Tell Claire I’ll be right there</string>
+				<string>Send a message to Andrew Carrigan</string>
+				<string>Send a message to Harriet saying how about tomorrow?</string>
+				<string>Tell Chris the show was great</string>
+				<string>Send a message to Claire on her mobile saying I’ll be late</string>
+				<string>Send a message to 020 7946 1217</string>
+				<string>Text Andrew and Harriet where are you?</string>
+			</array>
+			<key>SectionName</key>
+			<string>Sending Messages</string>
+		</dict>
+		<dict>
+			<key>ExamplePhrases</key>
+			<array>
+				<string>Read my new messages</string>
+				<string>Read it again</string>
+			</array>
+			<key>SectionName</key>
+			<string>Reading Message Alerts</string>
+		</dict>
+		<dict>
+			<key>ExamplePhrases</key>
+			<array>
+				<string>Reply that’s great news</string>
+				<string>Tell him I’ll be there in 10 minutes</string>
+				<string>Call her</string>
+			</array>
+			<key>SectionName</key>
+			<string>Responding to Messages</string>
+		</dict>
+	</array>
+</dict>
+</plist>

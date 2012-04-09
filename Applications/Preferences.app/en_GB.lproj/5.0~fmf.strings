@@ -1,0 +1,4 @@
+"ALLOW_CHANGES_VALUE" = "Өөрчлөлтийн зөвшөөрөх";
+"DONT_ALLOW_CHANGES_VALUE" = "Өөрчлөлтийг зөвшөөрөхгүй";
+"FIND_MY_FRIENDS" = "Find My Friends";
+"FIND_MY_FRIENDS_EXPLANATION" = "Disallowing changes locks the friends list and the current settings.";

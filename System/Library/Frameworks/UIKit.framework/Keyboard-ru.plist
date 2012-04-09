@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Roman-Accent-Е</key>
+	<dict>
+		<key>Direction</key>
+		<string>right</string>
+		<key>Keycaps</key>
+		<string>Ё Е</string>
+		<key>Strings</key>
+		<string>Ё Е</string>
+	</dict>
+	<key>Roman-Accent-О</key>
+	<dict>
+		<key>Direction</key>
+		<string>right</string>
+		<key>Keycaps</key>
+		<string>О Ө</string>
+		<key>Strings</key>
+		<string>О Ө</string>
+	</dict>
+	<key>Roman-Accent-У</key>
+	<dict>
+		<key>Direction</key>
+		<string>right</string>
+		<key>Keycaps</key>
+		<string>У Ү</string>
+		<key>Strings</key>
+		<string>У Ү</string>
+	</dict>
+	<key>Roman-Accent-Ь</key>
+	<dict>
+		<key>Direction</key>
+		<string>left</string>
+		<key>Keycaps</key>
+		<string>Ь Ъ</string>
+		<key>Strings</key>
+		<string>Ь Ъ</string>
+	</dict>
+	<key>Roman-Accent-е</key>
+	<dict>
+		<key>Direction</key>
+		<string>right</string>
+		<key>Keycaps</key>
+		<string>ё е</string>
+		<key>Strings</key>
+		<string>ё е</string>
+	</dict>
+	<key>Roman-Accent-о</key>
+	<dict>
+		<key>Direction</key>
+		<string>right</string>
+		<key>Keycaps</key>
+		<string>о ө</string>
+		<key>Strings</key>
+		<string>о ө</string>
+	</dict>
+	<key>Roman-Accent-у</key>
+	<dict>
+		<key>Direction</key>
+		<string>right</string>
+		<key>Keycaps</key>
+		<string>у ү</string>
+		<key>Strings</key>
+		<string>у ү</string>
+	</dict>
+	<key>Roman-Accent-ь</key>
+	<dict>
+		<key>Direction</key>
+		<string>left</string>
+		<key>Keycaps</key>
+		<string>ь ъ</string>
+		<key>Strings</key>
+		<string>ь ъ</string>
+	</dict>
+	<key>UI-ABC</key>
+	<string>ҮСЭГ</string>
+	<key>UI-AlternateCurrencySign-1</key>
+	<string>€</string>
+	<key>UI-AlternateCurrencySign-2</key>
+	<string>£</string>
+	<key>UI-AlternateCurrencySign-3</key>
+	<string>¥</string>
+	<key>UI-Cancel</key>
+	<string>Цуцлах</string>
+	<key>UI-Done</key>
+	<string>Дуусгах</string>
+	<key>UI-EmergencyCall</key>
+	<string>Түргэн тусламжийн дуудлага</string>
+	<key>UI-Go</key>
+	<string>Урагшаа</string>
+	<key>UI-HWR</key>
+	<string>Рукописный шрифт</string>
+	<key>UI-Join</key>
+	<string>Нэгдэх</string>
+	<key>UI-Kana</key>
+	<string>Кана</string>
+	<key>UI-LanguageIndicator</key>
+	<string>Монгол</string>
+	<key>UI-Next</key>
+	<string>Дараагийнх</string>
+	<key>UI-Numbers</key>
+	<string>Тоо</string>
+	<key>UI-NumbersSymbols</key>
+	<string>.?123</string>
+	<key>UI-Pause</key>
+	<string>Түр зогсоох</string>
+	<key>UI-Pinyin</key>
+	<string>Пиньин</string>
+	<key>UI-PrimaryCurrencySign</key>
+	<string>₮</string>
+	<key>UI-Redo</key>
+	<string>Повторить</string>
+	<key>UI-Return</key>
+	<string>Буулгах</string>
+	<key>UI-Romaji</key>
+	<string>QWERTY</string>
+	<key>UI-Route</key>
+	<string>Маршрут</string>
+	<key>UI-Search</key>
+	<string>Хайх</string>
+	<key>UI-Send</key>
+	<string>Илгээх</string>
+	<key>UI-Space</key>
+	<string>Зай</string>
+	<key>UI-TopLevelDomain</key>
+	<dict>
+		<key>Direction</key>
+		<string>left</string>
+		<key>Keycaps</key>
+		<string>.com .ru .org .edu .рф .mn</string>
+		<key>Strings</key>
+		<string>.com .ru .org .edu .рф .mn</string>
+	</dict>
+	<key>UI-Undo</key>
+	<string>Отменить</string>
+	<key>UI-Wait</key>
+	<string>Хүлээнэ үү</string>
+</dict>
+</plist>

@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>AllSections</key>
+	<array>
+		<dict>
+			<key>ExamplePhrases</key>
+			<array>
+				<string>Play Light of the Sun</string>
+				<string>Play Fallin’</string>
+				<string>Play Taking Back Sunday shuffled</string>
+				<string>Play Alicia Keys</string>
+			</array>
+			<key>SectionName</key>
+			<string>Play song, album or artist</string>
+		</dict>
+		<dict>
+			<key>ExamplePhrases</key>
+			<array>
+				<string>Play some blues</string>
+				<string>Play my party mix</string>
+				<string>Play more like this</string>
+				<string>Shuffle my roadtrip playlist</string>
+				<string>Genius this song</string>
+			</array>
+			<key>SectionName</key>
+			<string>Play genre, playlist or Genius</string>
+		</dict>
+		<dict>
+			<key>ExamplePhrases</key>
+			<array>
+				<string>Play</string>
+				<string>Pause</string>
+				<string>Skip</string>
+			</array>
+			<key>SectionName</key>
+			<string>Play controls</string>
+		</dict>
+	</array>
+</dict>
+</plist>

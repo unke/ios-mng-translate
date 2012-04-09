@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>AllSections</key>
+	<array>
+		<dict>
+			<key>ExamplePhrases</key>
+			<array>
+				<string>How many calories in a bagel?</string>
+				<string>Who’s buried in Grant’s tomb?</string>
+				<string>How long do dogs live?</string>
+				<string>What is the Gossamer Condor?</string>
+				<string>What’s the square root of 128?</string>
+				<string>How many pounds is €45?</string>
+				<string>What was the Best Picture of 1983?</string>
+				<string>How many days until Christmas?</string>
+				<string>How far away is the Sun?</string>
+				<string>When is the next solar eclipse?</string>
+				<string>Show me the Orion constellation</string>
+				<string>What’s the population of Jamaica?</string>
+				<string>How high is Mt. Everest?</string>
+				<string>How deep is the Atlantic ocean?</string>
+			</array>
+			<key>SectionName</key>
+			<string></string>
+		</dict>
+	</array>
+</dict>
+</plist>

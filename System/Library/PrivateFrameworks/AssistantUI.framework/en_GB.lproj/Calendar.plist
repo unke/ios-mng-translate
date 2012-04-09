@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>AllSections</key>
+	<array>
+		<dict>
+			<key>ExamplePhrases</key>
+			<array>
+				<string>Set up a meeting 9</string>
+				<string>Set up a meeting with Stuart at 9</string>
+				<string>Meet with Harriet at noon</string>
+				<string>Set up meeting about hiring tomorrow at 9am</string>
+				<string>New appointment with Harriet Devoy Friday at 3</string>
+				<string>Schedule a planning meeting at 8:30 today in the board room</string>
+			</array>
+			<key>SectionName</key>
+			<string>Adding events</string>
+		</dict>
+		<dict>
+			<key>ExamplePhrases</key>
+			<array>
+				<string>Move my 3pm meeting to 4:30</string>
+				<string>Reschedule my appointment with Dr. Devoy to next Monday at 9am</string>
+				<string>Add Harriet to my meeting with Andrew</string>
+				<string>Cancel the budget review meeting</string>
+			</array>
+			<key>SectionName</key>
+			<string>Changing events</string>
+		</dict>
+		<dict>
+			<key>ExamplePhrases</key>
+			<array>
+				<string>What does the rest of my day look like?</string>
+				<string>What’s on my calendar for Friday?</string>
+				<string>When is my next appointment?</string>
+				<string>When am I meeting with Stuart?</string>
+				<string>Where is my next meeting?</string>
+			</array>
+			<key>SectionName</key>
+			<string>Asking about events</string>
+		</dict>
+	</array>
+</dict>
+</plist>

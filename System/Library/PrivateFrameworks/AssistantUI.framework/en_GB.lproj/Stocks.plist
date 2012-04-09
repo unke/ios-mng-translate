@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>AllSections</key>
+	<array>
+		<dict>
+			<key>ExamplePhrases</key>
+			<array>
+				<string>What’s Apple’s stock price?</string>
+				<string>What is Apple’s PE ratio?</string>
+				<string>What did Yahoo close at today?</string>
+				<string>What did NKE close at yesterday?</string>
+				<string>How are the markets doing?</string>
+				<string>What is the Dow at?</string>
+			</array>
+			<key>SectionName</key>
+			<string></string>
+		</dict>
+	</array>
+</dict>
+</plist>

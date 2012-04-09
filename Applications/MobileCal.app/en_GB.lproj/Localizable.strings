@@ -1,0 +1,16 @@
+"AND_WITH_SPACE_BEFORE_NAME_TRUNCATION" = ", and ";
+"DAY" = "Өдөр";
+"DEFAULT" = "Өгөгдмөл";
+"DETAILS" = "Эд анги";
+"LIST" = "Жагсаалт";
+"LOADING" = "Ачааллаж байна…";
+"MONTH" = "Сар";
+"MORE_EVENTS_FORMAT" = "%d цааш нь…";
+"MORE_EVENTS_FORMAT_WITH_PRE_SPACE" = " %d цааш нь… ";
+"MORE_WITH_ELIPSIS" = "цааш нь…";
+"MORE_WITH_ELIPSIS_AND_PRE_SPACE" = " цааш нь…";
+"NO_EVENTS" = "Нөлөгүй";
+"TODAY" = "Өнөөдөр";
+"TODAY_ABBREVIATION" = "Өн.";
+"WEEK" = "7 хоног";
+"YEAR" = "Жил";

@@ -1,0 +1,535 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>LocaleToSample</key>
+	<dict>
+		<key>bg</key>
+		<string>ru</string>
+		<key>da</key>
+		<string>en</string>
+		<key>de</key>
+		<string>en</string>
+		<key>de_AT</key>
+		<string>en</string>
+		<key>de_CH</key>
+		<string>en</string>
+		<key>en_AU</key>
+		<string>en</string>
+		<key>en_CA</key>
+		<string>en</string>
+		<key>en_GB</key>
+		<string>en</string>
+		<key>en_US</key>
+		<string>en</string>
+		<key>es</key>
+		<string>en</string>
+		<key>fi</key>
+		<string>en</string>
+		<key>fr</key>
+		<string>en</string>
+		<key>fr_CA</key>
+		<string>en</string>
+		<key>fr_CH</key>
+		<string>en</string>
+		<key>hu</key>
+		<string>cs</string>
+		<key>it</key>
+		<string>en</string>
+		<key>nb</key>
+		<string>en</string>
+		<key>nl</key>
+		<string>en</string>
+		<key>nn</key>
+		<string>en</string>
+		<key>no</key>
+		<string>en</string>
+		<key>pl</key>
+		<string>cs</string>
+		<key>pt</key>
+		<string>en</string>
+		<key>pt_PT</key>
+		<string>en</string>
+		<key>sit</key>
+		<string>bo</string>
+		<key>sk</key>
+		<string>cs</string>
+		<key>sv</key>
+		<string>en</string>
+		<key>tib</key>
+		<string>bo</string>
+		<key>uk</key>
+		<string>ru</string>
+		<key>yi</key>
+		<string>he</string>
+		<key>zh_CN</key>
+		<string>zh-Hans</string>
+		<key>zh_Hans</key>
+		<string>zh-Hans</string>
+		<key>zh_Hant</key>
+		<string>zh-Hant</string>
+		<key>zh_TW</key>
+		<string>zh-Hant</string>
+	</dict>
+	<key>LongSamples</key>
+	<dict>
+		<key>Buhd</key>
+		<string>ᝀᝁᝂᝃᝄᝅᝆᝇᝈᝉ
+ᝊᝋᝌᝍᝎᝏᝐᝑᝒᝓ
+</string>
+		<key>Hano</key>
+		<string>ᜠᜡᜢᜣᜤᜥᜦᜧᜨᜩ
+ᜪᜫᜬᜭᜮᜯᜰᜱᜲᜳ᜴
+</string>
+		<key>Runr</key>
+		<string>ᚠᚡᚢᚣᚤᚥᚦᚧᚨᚩᚪᚫᚬᚭᚮᚯ
+ᚰᚱᚲᚳᚴᚵᚶᚷᚸᚹᚺᚻᚼᚽᚾᚿ
+ᛀᛁᛂᛃᛄᛅᛆᛇᛈᛉᛊᛋᛌᛍᛎᛏ
+ᛐᛑᛒᛓᛔᛕᛖᛗᛘᛙᛚᛛᛜᛝᛞᛟ
+ᛠᛡᛢᛣᛤᛥᛦᛧᛨᛩᛪ᛫᛬᛭ᛮᛯᛰ
+</string>
+		<key>Tagb</key>
+		<string>ᝠᝡᝢᝣᝤᝥᝦᝧᝨ
+ᝩᝪᝫᝬᝮᝯᝰᝲᝳ
+</string>
+		<key>applesymbols</key>
+		<string>₢₣₤₥₦₧₨₩₪₫€₭₮₯
+℀℁ℂ℃℄℅℆ℇ℈℉ℊℋℌℍℎℏ
+∀∃∅∇∉∏∑√∞∫∰⊆⊕⋀⊾
+⑀⑁⑂⑃⑄⑅⑆⑇⑈⑉⑊╒══╗
+☀☁☂☃☄☆☎☠☣☤☭☮☹☺
+☥☦☧☨☩☪☫☬☯☸
+☿♀♁♂♃♄♅♆♇
+♈♉♊♋♌♍♎♏♐♑♒♓
+♔♛♖♝♘♟♚♜♞
+♠♡♢♣⚀⚁⚂⚃⚄⚅⚆⚇⚈⚉
+♩♪♫♬♭♮♯♲♳♴♵♶♷♸♹</string>
+		<key>ar</key>
+		<string>ء آ أ ؤ إ ئ ا ب ة ت ث ج ح خ
+د ذ ر ز س ش ص ض ط ظ
+ع غ ف ق ك ل م ن ه و ي ى 
+١ ٢ ٣ ٤ ٥ ٦ ٧ ٨ ٩ ٠</string>
+		<key>bn</key>
+		<string>অআইঈউঊঋএঐওঔ
+কখগঘঙচছজঝঞটঠডঢণ
+তথদধনপফবভমযরল
+শষসহ
+০১২৩৪৫৬৭৮৯
+</string>
+		<key>bo</key>
+		<string>༄༅། །ཀ་ཁི་གུ་ངེ། ཅོ་ཆ་ཇ་ཉ༏
+ཏ་ཐ་ད་ན། པ་ཕ་བ་མ། ཙ་ཚ་ཛ་ཝ༐
+ཞ་ཟ་འ་ཡ། རྃ་ལ་ཤ་ས། ཧ་ཨོཾ༔ 
+ཊ་ཋ་ཌ་ཎ༈ ཥ་ཀྵ། གྷ་བྷ་ཛྷ༑ ༓
+༼ཀ༽༡༢༣༤༥༦༧༨༩༠ ྿</string>
+		<key>braille</key>
+		<string>⠁⠂⠃⠄⠅⠆⠇⠈⠉
+⠝⠞⠲⠳⠴⠾⠽⠳⠴
+⢢⢗⢪⣈⣆⣌⡾⡫⢠</string>
+		<key>chr</key>
+		<string>ᎠᎡᎢᎣᎤᎥᎦᎧᎨᎩᎪᎫᎬᎭᎮᎯᎰᎱ
+ᎲᎳᎴᎵᎶᎷᎸᎹᎺᎻᎼᎽᎾᎿᏀᏁᏂ
+ᏃᏄᏅᏆᏇᏈᏉᏊᏋᏌᏍᏎᏏᏐᏑᏒᏓ
+ᏔᏕᏖᏗᏘᏙᏚᏛᏜᏝᏞᏟᏠᏡᏢᏣᏤᏥ
+ᏦᏧᏨᏩᏪᏫᏬᏭᏮᏯᏰᏱᏲᏳᏴ
+(123456789) {};!&amp;? AaBbCc </string>
+		<key>cs</key>
+		<string>ABCDEFGHIJKLM
+NOPQRSTUVWXYZ
+ąbčdėfghijklm
+nopqřstůvwxyž
+1234567890
+("*%&amp;'),._;:!?`</string>
+		<key>dingbats</key>
+		<string>✁✂✃✄✆✇✈✉✌✍✎✏✐
+✑✒✓✔✕✖✗✘✙✚✛✜✝✞✟
+✠✡✢✣✤✥✦✧✩✪✫✬✭✮
+✯✰✱✲✳✵✶✷✸✹✺✻✼✽
+✾✿❀❁❂❃❄❅❆❇❈❉❊❋
+❶❷❸❹❺➅➆➇➈➉❤❥❦❧</string>
+		<key>en</key>
+		<string>ABCDEFGHIJKLM
+NOPQRSTUVWXYZ
+abcdefghijklm
+nopqrstuvwxyz
+1234567890</string>
+		<key>gez</key>
+		<string>ሀሁሂሃሄህሆሇለሉሊላሌልሎሏ
+ሐሑሒሓሔሕሖሗመሙሚማሜምሞሟ
+ሠሡሢሣሤሥሦሧረሩሪራሬርሮሯ
+ሰሱሲሳሴስሶሷሸሹሺሻሼሽሾሿ
+ᎀᎁᎂᎃᎄᎅᎆᎇᎈᎉᎊᎋᎌᎍᎎᎏ
+</string>
+		<key>gu</key>
+		<string>અઆઇઈઉઊઋએઐઓઔઅંઅઃ
+ કખગઘઙચછજઝઞટઠડઢણતથદધન
+ પફબભમયરલળવશષસહૐ. 
+૦૧૨૩૪૫૬૭૮૯
+1234567890 [-/+]
+("*%'),._;:!?*-</string>
+		<key>he</key>
+		<string> אבגדהוזחטיכל
+מנסעפצקרשת
+ףךץןם
+1234567890
+!“#$%”₪*)(</string>
+		<key>hi</key>
+		<string>अआइईउऊऋएऐओऔअंअः
+ कखगघङचछजझञटठडढण ।
+तथदधनपफबभमयरलवशषसह
+ ॐ ऽ ळ ॥ १२३४५६७८९०
+1234567890 [-/+]
+("*%'),._;:!?*-</string>
+		<key>hy</key>
+		<string>ԱԲԳԴԵԶԷԸԹԺԻԼԽԾԿՀՁՂՃ
+ՄՅՆՇՈՉՊՋՌՍՎՏՐՑՒՓՔՕՖ 
+աբգդեզէըթժիլխծկհձղճմյնշո
+չպջռսվտրցւփքօֆև 
+(«„0123456789”».,։֊★№)</string>
+		<key>iu</key>
+		<string>ᐁᐃᐅᐊᐯᐱᐳᐸᑌᑎᑐᑕᑫᑭᑯᑲᒉᒋᒍᒐᒣᒥᒧ
+ᒪᓀᓂᓄᓇᓓᓕᓗᓚᓬᓭᓯᓱᓴᔐᔑᔓᔕᔦᔨᔪᔭ
+ᕂᕃᕄᕆᕈᕊᕋᕍᕓᕕᕗᕙᕞᕟᕠᕡᕤᕦᕫᕬᕭ
+ᕮᕰᕱᕲᕳᕴᕵᕷᕹᕼᖆᖇᖈᖉᖊᖋᖌᖍᖗᖘᖙᖚᖠ
+ᖢᖧᖨᖪᖬᖯᖰᖱᖲᖳᖴᖵᖶᖷᖸᖹᖺᖻᖼᖽᖾᖿᗀᗁᗂᗃ
+(0123456789) &amp;%!@$; AaBbCcDd
+</string>
+		<key>ja</key>
+		<string>あのイーハトーヴォの
+すきとおった風、
+夏でも底に冷たさをもつ青いそら、
+うつくしい森で飾られたモリーオ市、
+郊外のぎらぎらひかる草の波。
+祇辻飴葛蛸鯖鰯噌庖箸
+ABCDEFGHIJKLM
+abcdefghijklm
+1234567890</string>
+		<key>ka</key>
+		<string>ႠႡႢႣႤႥႦႧႨႩႪႫႬႭႮႯ
+ႰႱႲႳႴႵႶႷႸႹႺႻႼႽႾႿ
+ჀჁჂჃჄჅ
+აბგდევზთიკლმნოპჟ
+რსტუფქღყშჩცძწჭხჯ
+ჰჱჲჳჴჵჶ
+ჷჸჹჺ჻</string>
+		<key>km</key>
+		<string>កខគឃងចឆជឈញដ
+ឋឌឍណតថទធនបផព
+ភមយរលវឝឞសហឡអ
+ឣឤឥឦឧឨឩឪឫឬឭឮ
+ឯឰឱឲឳ឴឵
+៛០១២៣៤៥៦៧៨៩
+៰៱៲៳៴៵៶៷៸៹
+</string>
+		<key>kn</key>
+		<string>ಅಆಇಈಉಊಋಌಎಏಐಒಓಔ
+ಕಖಗಘಙಚಛಜಝಞಟಠಡಢ
+ಣತಥದಧನಪಫಬಭಮಯರಱ
+ಲಳವಶಷಸಹೞೠೡ
+೦೧೨೩೪೫೬೭೮೯
+</string>
+		<key>ko</key>
+		<string>동해물과 백두산이 마르고
+닳도록 하느님이 보우하사
+天地玄黃宇宙洪荒日月盈仄
+㉠⒝⑶❹あア※♥♪⅜‘”
+ABcdEFgh 1234567890</string>
+		<key>lo</key>
+		<string>ກຂຄຎຏຍຐປຟ
+ກິກີກຶກຸກູກ຺ກ່ກ້ກ໊ກ໌
+(“຿໅®©™@”)
+ABCDEabcde
+໑໒໓໔໕12345</string>
+		<key>ml</key>
+		<string>അആഇഈഉഊഋഌഎഏഐഒഓഔക
+ഖഗഘങചഛജഝഞടഠഡഢണത
+ഥദധനപഫബഭമയരറലളഴ
+വശഷസഹൗൠൡ
+൦൧൨൩൪൫൬൭൮൯
+</string>
+		<key>my</key>
+		<string>ကခဂဃငစဆဇဈဉညဋဌဍ
+ဎဏတထဒဓနပဖဗဘမယရ
+လဝသဟဠအဣဤဥဦဧဩဪ
+၀၁၂၃၄၅၆၇၈၉၌၍၎၏
+ၐၑၒၓၔၕ
+</string>
+		<key>or</key>
+		<string>ଅଆଇଈଉଊଋଌଏଐଓଔ
+କଖଗଘଙଚଛଜଝଞଟଠ
+ଡଢଣତଥଦଧନପଫବଭ
+ମଯରଲଳଵଶଷସହୖୗ
+ଡ଼ଢ଼ୟୠୡ
+୦୧୨୩୪୫୬୭୮୯୰ୱ
+</string>
+		<key>ornaments</key>
+		<string>
+
+
+
+
+
+</string>
+		<key>pa</key>
+		<string>ਅਆਇਈਉਊਏਐਓਔ 
+ਕਖਗਘਙਚਛਜਝਞਟਠਡਢਣਤਥਦਧਨਪਫਬਭਮ
+ ਯਰਲਵਸ਼ਸਹ। ੦੧੨੩੪੫੬੭੮੯
+1234567890 [-/+]
+("*%'),._;:!?*-</string>
+		<key>ru</key>
+		<string>АБВГДЕЁЖЗИЙКЛМНОӨП
+РСТУҮФХЦЧШЩЪЫЬЭЮЯ
+абвгдеёжзийклмноп
+рстуфхцчшщъыьэюя
+1234567890
+("*#%&amp;@`)</string>
+		<key>si</key>
+		<string>අආඇඈඉඊඋඌඍඎඏඐඑඒඓඔඕ
+ඖකඛගඝඞඟචඡජඣඤඥඦටඨඩ
+ඪණඬතථදධනඳපඵබභමඹයර
+ලවශෂසහළෆ෴
+</string>
+		<key>symbol</key>
+		<string>ΑΒΓΕΖΗΘΙΚΛΜΝΞ
+ΟΠΡΣΤΥΦΧΨ
+αβγδζηθικλνξ
+ορσςτυφχψω
+1234567890
+μ∂∑∏π∫Ω√≈ƒΔ</string>
+		<key>ta</key>
+		<string>அஆஈஉஊஎஏஐஒஓஔ
+கஙசஜஞடணதநனபமயரறலளழவஷஸஹ
+௧௨௩௪௫௬௭௮௯௰௱௲
+0123456789[-/+]
+("*%'),._;:!?*-
+</string>
+		<key>te</key>
+		<string>అఆఇఈఉఊఋఌఎఏఐఒఓఔ
+కఖగఘఙచఛజఝఞటఠడఢ
+ణతథదధనపఫబభమయరఱ
+లళవశషసహౠౡ
+౦౧౨౩౪౫౬౭౮౯</string>
+		<key>th</key>
+		<string>กขคฎฏญฐปฟ
+กิกีกึกุกูกฺก่ก้ก๊ก์
+(“฿ๅ®©™@”)
+ABCDEabcde
+๑๒๓๔๕12345</string>
+		<key>tl</key>
+		<string>ᜀᜁᜂᜃᜄᜅᜆᜇᜈᜉ
+ᜊᜋᜌᜎᜏᜐᜑᜒᜓ᜔
+</string>
+		<key>webdings</key>
+		<string>
+
+
+
+
+
+
+
+</string>
+		<key>zh-Hans</key>
+		<string>汉体书写信息技术标准相
+容档案下载使用界面简单 
+支援服务升级资讯专业制
+作创意空间快速无线上网
+℃☆㈠㈡㈢㈣㈤㈥㈦㈧㈨㈩
+ＡａＢｂＣｃ
+AaBbCc ǔǖǘǚǜ</string>
+		<key>zh-Hant</key>
+		<string>壹貳參肆伍陸柒捌玖拾
+一二三四五六七八九十卄卅
+ㄅㄆㄇㄈㄉㄊㄋㄌㄍㄎㄏㄐ
+ㄑㄒㄓㄔㄕㄖㄗㄘㄙㄚㄛ
+ㄜㄝㄞㄟㄠㄡㄢㄣㄤㄥㄦㄧㄨㄩ
+◎★㊣℃☆℅兙兛兞兝兡兣嗧瓩糎
+ＡａＢｂＣｃAaBbCc</string>
+	</dict>
+	<key>PostScriptNameToSample</key>
+	<dict>
+		<key>AppleSymbols</key>
+		<string>applesymbols</string>
+		<key>HoeflerText-Ornaments</key>
+		<string>ornaments</string>
+		<key>Symbol</key>
+		<string>symbol</string>
+		<key>Webdings</key>
+		<string>webdings</string>
+		<key>Wingdings</key>
+		<string>webdings</string>
+		<key>Wingdings-Regular</key>
+		<string>webdings</string>
+		<key>Wingdings2</key>
+		<string>webdings</string>
+		<key>Wingdings3</key>
+		<string>webdings</string>
+	</dict>
+	<key>ShortSamples</key>
+	<dict>
+		<key>Buhd</key>
+		<string>ᝀᝁ</string>
+		<key>Hano</key>
+		<string>ᜠᜡ</string>
+		<key>Runr</key>
+		<string>ᚠᚡ</string>
+		<key>Tagb</key>
+		<string>ᝠᝡ</string>
+		<key>applesymbols</key>
+		<string>☎☺</string>
+		<key>ar</key>
+		<string>ظ خ </string>
+		<key>bn</key>
+		<string>অআ</string>
+		<key>bo</key>
+		<string>ཀགུ</string>
+		<key>braille</key>
+		<string>⠅⡾</string>
+		<key>chr</key>
+		<string>ᎣᏰ</string>
+		<key>cs</key>
+		<string>Ag</string>
+		<key>dingbats</key>
+		<string>✎✷</string>
+		<key>en</key>
+		<string>Ag</string>
+		<key>gez</key>
+		<string>ሀሁ</string>
+		<key>gu</key>
+		<string>અઇ</string>
+		<key>he</key>
+		<string>אק</string>
+		<key>hi</key>
+		<string>अई</string>
+		<key>hy</key>
+		<string>ԹՃ</string>
+		<key>iu</key>
+		<string>ᕞᖢ</string>
+		<key>ja</key>
+		<string>あ夏</string>
+		<key>ka</key>
+		<string>დე</string>
+		<key>km</key>
+		<string>កខ</string>
+		<key>kn</key>
+		<string>ಕಖ</string>
+		<key>ko</key>
+		<string>동해</string>
+		<key>lo</key>
+		<string>໓໔</string>
+		<key>ml</key>
+		<string>അഖ</string>
+		<key>my</key>
+		<string>ကခ</string>
+		<key>or</key>
+		<string>ଳଶ</string>
+		<key>ornaments</key>
+		<string></string>
+		<key>pa</key>
+		<string>ਅਆ</string>
+		<key>ru</key>
+		<string>Яц</string>
+		<key>si</key>
+		<string>අආ</string>
+		<key>symbol</key>
+		<string>Φγ</string>
+		<key>ta</key>
+		<string>தல</string>
+		<key>te</key>
+		<string>కఖ</string>
+		<key>th</key>
+		<string>คฎ</string>
+		<key>tl</key>
+		<string>ᜀᜁ</string>
+		<key>webdings</key>
+		<string></string>
+		<key>zh-Hans</key>
+		<string>汉体</string>
+		<key>zh-Hant</key>
+		<string>壹貳</string>
+	</dict>
+	<key>VeryShortSamples</key>
+	<dict>
+		<key>Buhd</key>
+		<string>ᝀ</string>
+		<key>Hano</key>
+		<string>ᜠ</string>
+		<key>Runr</key>
+		<string>ᚠ</string>
+		<key>Tagb</key>
+		<string>ᝠ</string>
+		<key>applesymbols</key>
+		<string>☎</string>
+		<key>ar</key>
+		<string>ش</string>
+		<key>bn</key>
+		<string>ক</string>
+		<key>bo</key>
+		<string>ཀ</string>
+		<key>braille</key>
+		<string>⡾</string>
+		<key>chr</key>
+		<string>Ꭳ</string>
+		<key>cs</key>
+		<string>A</string>
+		<key>dingbats</key>
+		<string>✎</string>
+		<key>en</key>
+		<string>A</string>
+		<key>gez</key>
+		<string>ሀ</string>
+		<key>gu</key>
+		<string>અ</string>
+		<key>he</key>
+		<string>א</string>
+		<key>hi</key>
+		<string>त</string>
+		<key>hy</key>
+		<string>Թ</string>
+		<key>iu</key>
+		<string>ᕞ</string>
+		<key>ja</key>
+		<string>あ</string>
+		<key>ka</key>
+		<string>დ</string>
+		<key>km</key>
+		<string>ក</string>
+		<key>kn</key>
+		<string>ಕ</string>
+		<key>ko</key>
+		<string>동</string>
+		<key>lo</key>
+		<string>໓</string>
+		<key>ml</key>
+		<string>അ</string>
+		<key>my</key>
+		<string>က</string>
+		<key>or</key>
+		<string>ଳ</string>
+		<key>ornaments</key>
+		<string></string>
+		<key>pa</key>
+		<string>ਕ</string>
+		<key>ru</key>
+		<string>Я</string>
+		<key>si</key>
+		<string>අ</string>
+		<key>symbol</key>
+		<string>Φ</string>
+		<key>ta</key>
+		<string>த</string>
+		<key>te</key>
+		<string>క</string>
+		<key>th</key>
+		<string>ค</string>
+		<key>tl</key>
+		<string>ᜀ</string>
+		<key>webdings</key>
+		<string></string>
+		<key>zh-Hans</key>
+		<string>汉</string>
+		<key>zh-Hant</key>
+		<string>ㄆ</string>
+	</dict>
+</dict>
+</plist>

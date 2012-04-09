@@ -1,0 +1,207 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>AllDomains</key>
+	<array>
+		<dict>
+			<key>DomainDisplayName</key>
+			<string>Phone</string>
+			<key>DomainName</key>
+			<string>Phone</string>
+			<key>IconDisplayIdentifier</key>
+			<string>com.apple.mobilephone</string>
+			<key>RequiredApplications</key>
+			<array/>
+			<key>RequiredCapabilities</key>
+			<array/>
+			<key>TagPhrase</key>
+			<string>Call Andrew</string>
+		</dict>
+		<dict>
+			<key>DomainDisplayName</key>
+			<string>iPod / Music</string>
+			<key>DomainName</key>
+			<string>Music</string>
+			<key>IconDisplayIdentifier</key>
+			<string>com.apple.mobileipod</string>
+			<key>RequiredApplications</key>
+			<array/>
+			<key>RequiredCapabilities</key>
+			<array/>
+			<key>TagPhrase</key>
+			<string>Play The Light of the Sun</string>
+		</dict>
+		<dict>
+			<key>DomainDisplayName</key>
+			<string>Messages</string>
+			<key>DomainName</key>
+			<string>Messages</string>
+			<key>IconDisplayIdentifier</key>
+			<string>com.apple.MobileSMS</string>
+			<key>RequiredApplications</key>
+			<array/>
+			<key>RequiredCapabilities</key>
+			<array/>
+			<key>TagPhrase</key>
+			<string>Tell Claire I’ll be right there</string>
+		</dict>
+		<dict>
+			<key>DomainDisplayName</key>
+			<string>Calendar</string>
+			<key>DomainName</key>
+			<string>Calendar</string>
+			<key>IconDisplayIdentifier</key>
+			<string>com.apple.mobilecal</string>
+			<key>RequiredApplications</key>
+			<array/>
+			<key>RequiredCapabilities</key>
+			<array/>
+			<key>TagPhrase</key>
+			<string>Set up a meeting at 9</string>
+		</dict>
+		<dict>
+			<key>DomainDisplayName</key>
+			<string>Reminders</string>
+			<key>DomainName</key>
+			<string>Reminders</string>
+			<key>IconDisplayIdentifier</key>
+			<string>com.apple.reminders</string>
+			<key>RequiredApplications</key>
+			<array/>
+			<key>RequiredCapabilities</key>
+			<array/>
+			<key>TagPhrase</key>
+			<string>Remind me to call mum</string>
+		</dict>
+		<dict>
+			<key>DomainDisplayName</key>
+			<string>Email</string>
+			<key>DomainName</key>
+			<string>Email</string>
+			<key>IconDisplayIdentifier</key>
+			<string>com.apple.mobilemail</string>
+			<key>RequiredApplications</key>
+			<array/>
+			<key>RequiredCapabilities</key>
+			<array/>
+			<key>TagPhrase</key>
+			<string>Email Harriet about the trip</string>
+		</dict>
+		<dict>
+			<key>DomainDisplayName</key>
+			<string>Weather</string>
+			<key>DomainName</key>
+			<string>Weather</string>
+			<key>IconDisplayIdentifier</key>
+			<string>com.apple.weather</string>
+			<key>RequiredApplications</key>
+			<array/>
+			<key>RequiredCapabilities</key>
+			<array/>
+			<key>TagPhrase</key>
+			<string>What’s the weather for today?</string>
+		</dict>
+		<dict>
+			<key>DomainDisplayName</key>
+			<string>Stocks</string>
+			<key>DomainName</key>
+			<string>Stocks</string>
+			<key>IconDisplayIdentifier</key>
+			<string>com.apple.stocks</string>
+			<key>RequiredApplications</key>
+			<array/>
+			<key>RequiredCapabilities</key>
+			<array/>
+			<key>TagPhrase</key>
+			<string>What is Apple’s stock price?</string>
+		</dict>
+		<dict>
+			<key>DomainDisplayName</key>
+			<string>Clock, Alarm, and Timer</string>
+			<key>DomainName</key>
+			<string>ClockAlarmTimer</string>
+			<key>IconDisplayIdentifier</key>
+			<string>com.apple.mobiletimer</string>
+			<key>RequiredApplications</key>
+			<array/>
+			<key>RequiredCapabilities</key>
+			<array/>
+			<key>TagPhrase</key>
+			<string>Wake me up tomorrow at 7am</string>
+		</dict>
+		<dict>
+			<key>DomainDisplayName</key>
+			<string>Address Book</string>
+			<key>DomainName</key>
+			<string>AddressBook</string>
+			<key>IconDisplayIdentifier</key>
+			<string>com.apple.MobileAddressBook</string>
+			<key>RequiredApplications</key>
+			<array/>
+			<key>RequiredCapabilities</key>
+			<array/>
+			<key>TagPhrase</key>
+			<string>What’s Stuart's address?</string>
+		</dict>
+		<dict>
+			<key>DomainDisplayName</key>
+			<string>Find My Friends</string>
+			<key>DomainName</key>
+			<string>FindMyFriends</string>
+			<key>IconDisplayIdentifier</key>
+			<string>com.apple.mobileme.fmf1</string>
+			<key>RequiredApplications</key>
+			<array>
+				<string>com.apple.mobileme.fmf1</string>
+			</array>
+			<key>RequiredCapabilities</key>
+			<array/>
+			<key>TagPhrase</key>
+			<string>Where’s Andrew?</string>
+		</dict>
+		<dict>
+			<key>DomainDisplayName</key>
+			<string>Notes</string>
+			<key>DomainName</key>
+			<string>Notes</string>
+			<key>IconDisplayIdentifier</key>
+			<string>com.apple.mobilenotes</string>
+			<key>RequiredApplications</key>
+			<array/>
+			<key>RequiredCapabilities</key>
+			<array/>
+			<key>TagPhrase</key>
+			<string>Note that I spent £12 on lunch</string>
+		</dict>
+		<dict>
+			<key>DomainDisplayName</key>
+			<string>Web Search</string>
+			<key>DomainName</key>
+			<string>WebSearch</string>
+			<key>IconDisplayIdentifier</key>
+			<string>com.apple.mobilesafari</string>
+			<key>RequiredApplications</key>
+			<array/>
+			<key>RequiredCapabilities</key>
+			<array/>
+			<key>TagPhrase</key>
+			<string>Search the web for Bora Bora</string>
+		</dict>
+		<dict>
+			<key>DomainDisplayName</key>
+			<string>WolframAlpha</string>
+			<key>DomainName</key>
+			<string>WolframAlpha</string>
+			<key>IconBundleIdentifier</key>
+			<string>com.apple.WAAnswer</string>
+			<key>RequiredApplications</key>
+			<array/>
+			<key>RequiredCapabilities</key>
+			<array/>
+			<key>TagPhrase</key>
+			<string>How many calories in a bagel?</string>
+		</dict>
+	</array>
+</dict>
+</plist>

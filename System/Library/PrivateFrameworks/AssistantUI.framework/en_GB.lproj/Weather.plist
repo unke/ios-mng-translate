@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>AllSections</key>
+	<array>
+		<dict>
+			<key>ExamplePhrases</key>
+			<array>
+				<string>What’s the weather for today?</string>
+				<string>What’s the weather for tomorrow?</string>
+				<string>Will it rain in London this week?</string>
+				<string>Check next week’s forecast for Liverpool</string>
+				<string>What’s the forecast for this evening?</string>
+				<string>How’s the weather in York right now?</string>
+				<string>How hot will it be in Oxford this weekend?</string>
+				<string>What’s the high for Cambridge on Thursday?</string>
+				<string>What’s the temperature outside?</string>
+				<string>How windy is it out there?</string>
+				<string>When is sunrise in Paris?</string>
+			</array>
+			<key>SectionName</key>
+			<string></string>
+		</dict>
+	</array>
+</dict>
+</plist>
